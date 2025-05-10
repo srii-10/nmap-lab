@@ -5,13 +5,13 @@ Identify Potential Security Gaps
 
 Scanned the lab's internal network using Nmap to identify active devices, open ports, and running services, especially on Metasploitable2 (VM). The main objective was to understand the network structure and potential security holes in terms of open ports and service versions.
 
-### Skills Learned
+## Skills Learned
 
 - Detecting active hosts on the lab's internal network
 - Perform port scanning to identify open ports
 - Detect open ports and services running on active hosts using the -sV option.
 
-### Tools Used
+## Tools Used
 
 - Nmap 7.95 (Kali-Linux VM CLI version)
 - Ubuntu (VM)
