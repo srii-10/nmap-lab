@@ -1,14 +1,15 @@
-# nmap-lab
+# Network Scanning Lab
+Identify Potential Security Gaps
 
 ## Objective
 
-Scanning the lab's internal network using Nmap to identify active devices, open ports, running services, as well as performing Metasploitable2 FTP exploits. The main objective was to understand the network structure and potential security holes in terms of open ports and service versioning.
+Scanned the lab's internal network using Nmap to identify active devices, open ports, and running services, especially on Metasploitable2 (VM). The main objective was to understand the network structure and potential security holes in terms of open ports and service versions.
 
 ### Skills Learned
 
-- Mendeteksi host aktif, layanan, dan sistem operasi pada jaringan internal lab
-- Melakukan port scanning pada VM Metasploitable2 untuk mengidentifikasi port terbuka
-- 
+- Detecting active hosts on the lab's internal network
+- Perform port scanning to identify open ports
+- Detect open ports and services running on active hosts using the -sV option.
 
 ### Tools Used
 
@@ -20,9 +21,10 @@ Scanning the lab's internal network using Nmap to identify active devices, open 
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
-
 Every screenshot should have some text explaining what the screenshot is about.
-
 Example below.
-
 *Ref 1: Network Diagram*
+
+Img 1:
+![Screenshot 2025-04-25 192520](https://github.com/user-attachments/assets/d0f70cca-5899-4cbe-9dbb-a350dbd2dba4)
+
