@@ -27,7 +27,7 @@ Explanation: <br>
 • -sV: service version detection <br>
 • -O: operating system detection
 
-#### Results and Analysis
+### Results and Analysis
 
 <i>Img 1: Ubuntu </i> <br>
 <img src="images/nmap1.png" alt="Scan Result" width="500"/> <br>
