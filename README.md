@@ -29,7 +29,7 @@ Explanation: <br>
 
 #### Results and Analysis
 
-Img 1: Ubuntu <br>
+<i>Img 1: Ubuntu </i> <br>
 <img src="images/nmap1.png" alt="Scan Result" width="500"/> <br>
 The host is on, but all ports are closed or filtered, there may be an active firewall.
 - IP Address: 192.168.56.100
@@ -38,7 +38,7 @@ The host is on, but all ports are closed or filtered, there may be an active fir
 - MAC Address detected: 08:00:27:XX:XX:XX
 - Network Distance: 1 hop (local network)
 
-Img 2: Metasploitable2 <br>
+<i>Img 2: Metasploitable2 </i> <br>
 <img src="images/nmap2.png" alt="Scan Result" width="500"/> <br>
 Active and many services show old and vulnerable versions in Metasploitable2, vulnerable to exploitation.
 - IP Address: 192.168.56.112
@@ -48,7 +48,7 @@ Active and many services show old and vulnerable versions in Metasploitable2, vu
 - Operating System detected: Linux 2.6.x - 2.6.x
 - Network Distance: 1 hop (local network)
 
-Img 3: Kali Linux <br>
+<i>Img 3: Kali Linux </i> <br>
 <img src="images/nmap3.png" alt="Scan Result" width="500"/> <br>
 Host is alive, all ports are closed, no open services detected.
 - IP Address: 192.168.56.109
