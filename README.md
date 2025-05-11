@@ -58,6 +58,12 @@ Host is alive, all ports are closed, no open services detected.
 
 Nmap completed. 3 hosts were active on the internal network and detected in 26.50 seconds.
 
+### Advice
+
+- Make sure all services are up-to-date.
+- Disable unused services.
+- Use a firewall (UFW/iptables) to restrict port access.
+
 ## Conclusion
 
 Network scanning using Nmap provides important information about active devices, open ports, and services. This information can be used as material for further identification, especially in services with old versions and look vulnerable to exploration or exploitation.
